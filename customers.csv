@@ -1,0 +1,501 @@
+customer_id,segment,region,age,account_type,risk_tier
+C0001,Affluent,North,58,Both,Low
+C0002,Mass Market,West,55,Checking,Medium
+C0003,Mass Market,West,35,Both,Low
+C0004,Affluent,North,58,Checking,Low
+C0005,Emerging Affluent,West,43,Both,High
+C0006,Mass Market,South,50,Checking,High
+C0007,Mass Market,North,64,Checking,Low
+C0008,Emerging Affluent,North,62,Both,Medium
+C0009,Mass Market,South,69,Checking,High
+C0010,Emerging Affluent,South,72,Checking,Medium
+C0011,Mass Market,South,39,Savings,High
+C0012,Emerging Affluent,East,65,Savings,Low
+C0013,Mass Market,East,27,Savings,Medium
+C0014,Emerging Affluent,North,25,Savings,High
+C0015,Affluent,East,61,Checking,Low
+C0016,Affluent,North,72,Savings,Low
+C0017,Affluent,East,29,Savings,Low
+C0018,Mass Market,East,46,Both,Medium
+C0019,Emerging Affluent,West,55,Savings,High
+C0020,Mass Market,East,60,Checking,Low
+C0021,Emerging Affluent,South,46,Both,Medium
+C0022,Mass Market,East,58,Checking,Low
+C0023,Affluent,North,55,Checking,Low
+C0024,Affluent,West,34,Savings,High
+C0025,Affluent,East,69,Savings,Medium
+C0026,Emerging Affluent,East,29,Both,Medium
+C0027,Mass Market,South,27,Checking,Medium
+C0028,Mass Market,North,62,Savings,Low
+C0029,Emerging Affluent,South,34,Checking,Medium
+C0030,Emerging Affluent,South,22,Both,High
+C0031,Affluent,North,27,Checking,Medium
+C0032,Affluent,South,58,Savings,Medium
+C0033,Affluent,East,55,Both,Low
+C0034,Affluent,South,26,Checking,High
+C0035,Emerging Affluent,West,50,Checking,Low
+C0036,Affluent,South,21,Savings,Medium
+C0037,Affluent,West,32,Both,Medium
+C0038,Mass Market,West,69,Both,Medium
+C0039,Mass Market,West,53,Checking,High
+C0040,Mass Market,North,42,Savings,Medium
+C0041,Emerging Affluent,North,47,Savings,High
+C0042,Emerging Affluent,East,51,Checking,Medium
+C0043,Mass Market,East,66,Checking,Low
+C0044,Mass Market,South,25,Savings,Medium
+C0045,Emerging Affluent,East,46,Both,Low
+C0046,Mass Market,North,44,Both,Low
+C0047,Mass Market,East,41,Savings,Medium
+C0048,Affluent,North,43,Savings,Medium
+C0049,Affluent,East,67,Both,High
+C0050,Affluent,North,56,Both,Low
+C0051,Emerging Affluent,East,49,Both,Medium
+C0052,Emerging Affluent,South,70,Savings,Medium
+C0053,Mass Market,South,73,Both,Medium
+C0054,Mass Market,West,39,Savings,Medium
+C0055,Affluent,South,30,Savings,High
+C0056,Affluent,North,43,Checking,High
+C0057,Mass Market,West,40,Savings,High
+C0058,Mass Market,East,58,Savings,High
+C0059,Mass Market,North,43,Checking,High
+C0060,Affluent,West,54,Checking,Medium
+C0061,Mass Market,East,58,Both,High
+C0062,Emerging Affluent,East,71,Both,High
+C0063,Emerging Affluent,North,69,Both,Medium
+C0064,Affluent,South,44,Checking,Medium
+C0065,Emerging Affluent,North,63,Savings,High
+C0066,Emerging Affluent,North,40,Both,High
+C0067,Affluent,South,38,Savings,Low
+C0068,Emerging Affluent,South,31,Savings,High
+C0069,Mass Market,West,74,Both,Medium
+C0070,Mass Market,North,23,Savings,Medium
+C0071,Emerging Affluent,South,70,Savings,High
+C0072,Mass Market,South,34,Savings,Medium
+C0073,Emerging Affluent,South,70,Savings,High
+C0074,Affluent,South,62,Both,Low
+C0075,Emerging Affluent,East,21,Both,Low
+C0076,Mass Market,East,32,Savings,Medium
+C0077,Emerging Affluent,East,73,Savings,Medium
+C0078,Emerging Affluent,South,28,Checking,Low
+C0079,Affluent,South,31,Checking,Medium
+C0080,Affluent,East,23,Checking,Low
+C0081,Mass Market,South,52,Checking,Low
+C0082,Emerging Affluent,East,55,Checking,Low
+C0083,Emerging Affluent,East,51,Both,Medium
+C0084,Emerging Affluent,South,68,Savings,Medium
+C0085,Emerging Affluent,North,59,Savings,High
+C0086,Emerging Affluent,North,54,Savings,Low
+C0087,Mass Market,West,71,Checking,Medium
+C0088,Mass Market,East,54,Savings,High
+C0089,Mass Market,West,61,Both,Medium
+C0090,Affluent,East,71,Checking,Low
+C0091,Affluent,West,69,Savings,High
+C0092,Mass Market,North,48,Savings,High
+C0093,Emerging Affluent,East,51,Savings,Low
+C0094,Emerging Affluent,North,73,Checking,Medium
+C0095,Mass Market,South,48,Savings,High
+C0096,Emerging Affluent,East,28,Savings,High
+C0097,Affluent,North,41,Checking,Medium
+C0098,Affluent,South,27,Savings,Medium
+C0099,Mass Market,East,59,Checking,High
+C0100,Affluent,North,57,Savings,High
+C0101,Mass Market,East,41,Both,Low
+C0102,Emerging Affluent,South,57,Savings,High
+C0103,Emerging Affluent,South,53,Checking,Low
+C0104,Affluent,West,43,Checking,Low
+C0105,Mass Market,East,57,Savings,Low
+C0106,Emerging Affluent,North,34,Savings,Low
+C0107,Affluent,East,21,Savings,Medium
+C0108,Mass Market,West,27,Both,High
+C0109,Emerging Affluent,South,23,Checking,Low
+C0110,Mass Market,West,21,Checking,High
+C0111,Emerging Affluent,South,22,Checking,High
+C0112,Emerging Affluent,East,32,Both,High
+C0113,Emerging Affluent,South,23,Both,High
+C0114,Mass Market,East,48,Both,Low
+C0115,Affluent,West,28,Both,Low
+C0116,Affluent,North,73,Both,High
+C0117,Emerging Affluent,North,70,Checking,High
+C0118,Emerging Affluent,East,21,Savings,Low
+C0119,Emerging Affluent,South,63,Both,High
+C0120,Emerging Affluent,North,68,Checking,High
+C0121,Affluent,North,51,Both,Medium
+C0122,Affluent,West,54,Checking,Low
+C0123,Emerging Affluent,South,49,Savings,Low
+C0124,Mass Market,West,46,Savings,Medium
+C0125,Affluent,North,30,Both,Low
+C0126,Mass Market,North,22,Savings,Medium
+C0127,Affluent,South,33,Both,High
+C0128,Mass Market,East,63,Checking,Low
+C0129,Mass Market,West,46,Savings,Medium
+C0130,Mass Market,East,32,Checking,High
+C0131,Emerging Affluent,West,25,Both,Low
+C0132,Emerging Affluent,North,74,Checking,Medium
+C0133,Affluent,North,31,Both,Medium
+C0134,Affluent,West,67,Checking,Medium
+C0135,Affluent,South,48,Savings,Medium
+C0136,Affluent,South,26,Both,High
+C0137,Emerging Affluent,West,25,Savings,Medium
+C0138,Mass Market,North,57,Checking,High
+C0139,Affluent,East,57,Checking,Medium
+C0140,Affluent,West,62,Savings,Medium
+C0141,Emerging Affluent,South,66,Savings,Medium
+C0142,Mass Market,North,40,Both,High
+C0143,Emerging Affluent,North,30,Checking,High
+C0144,Emerging Affluent,West,28,Savings,Low
+C0145,Emerging Affluent,West,21,Checking,High
+C0146,Mass Market,North,63,Both,High
+C0147,Emerging Affluent,East,66,Checking,Low
+C0148,Mass Market,East,39,Both,Medium
+C0149,Affluent,West,51,Savings,Low
+C0150,Emerging Affluent,South,25,Checking,High
+C0151,Mass Market,West,36,Savings,High
+C0152,Mass Market,North,43,Checking,Low
+C0153,Mass Market,West,38,Checking,High
+C0154,Mass Market,East,45,Savings,High
+C0155,Affluent,South,42,Both,Low
+C0156,Affluent,South,62,Savings,Medium
+C0157,Emerging Affluent,West,67,Checking,Low
+C0158,Emerging Affluent,East,59,Both,Low
+C0159,Affluent,North,32,Savings,High
+C0160,Affluent,West,71,Checking,Medium
+C0161,Emerging Affluent,West,70,Both,Low
+C0162,Mass Market,North,33,Both,High
+C0163,Mass Market,East,28,Checking,High
+C0164,Emerging Affluent,East,32,Savings,Medium
+C0165,Affluent,South,34,Both,High
+C0166,Emerging Affluent,South,49,Both,High
+C0167,Mass Market,East,49,Savings,Medium
+C0168,Affluent,South,31,Checking,High
+C0169,Emerging Affluent,North,35,Savings,Medium
+C0170,Mass Market,East,68,Checking,High
+C0171,Mass Market,North,71,Both,Medium
+C0172,Emerging Affluent,North,64,Both,Medium
+C0173,Mass Market,East,66,Savings,High
+C0174,Emerging Affluent,West,67,Both,High
+C0175,Affluent,North,66,Both,Low
+C0176,Emerging Affluent,East,64,Savings,High
+C0177,Emerging Affluent,West,60,Savings,Low
+C0178,Mass Market,North,60,Checking,Low
+C0179,Mass Market,West,64,Checking,Low
+C0180,Affluent,West,43,Both,Medium
+C0181,Emerging Affluent,South,67,Checking,High
+C0182,Emerging Affluent,North,32,Savings,Medium
+C0183,Affluent,East,70,Checking,High
+C0184,Emerging Affluent,South,57,Checking,High
+C0185,Mass Market,East,31,Savings,High
+C0186,Emerging Affluent,West,33,Both,High
+C0187,Mass Market,West,56,Savings,Low
+C0188,Emerging Affluent,East,36,Both,Low
+C0189,Affluent,West,46,Savings,Low
+C0190,Emerging Affluent,West,43,Checking,Low
+C0191,Affluent,North,39,Checking,Medium
+C0192,Emerging Affluent,West,40,Both,Low
+C0193,Mass Market,East,45,Both,Medium
+C0194,Affluent,East,39,Both,Low
+C0195,Affluent,North,73,Checking,Medium
+C0196,Affluent,West,46,Checking,Medium
+C0197,Mass Market,West,46,Checking,Low
+C0198,Mass Market,East,22,Checking,Low
+C0199,Affluent,West,21,Checking,Medium
+C0200,Affluent,South,52,Savings,Low
+C0201,Affluent,South,29,Savings,Low
+C0202,Affluent,North,39,Savings,High
+C0203,Mass Market,West,48,Both,High
+C0204,Mass Market,West,36,Savings,High
+C0205,Emerging Affluent,North,50,Checking,Medium
+C0206,Emerging Affluent,East,25,Savings,High
+C0207,Mass Market,East,36,Both,Low
+C0208,Mass Market,West,69,Checking,Low
+C0209,Affluent,West,32,Savings,Medium
+C0210,Mass Market,South,21,Savings,High
+C0211,Emerging Affluent,West,43,Both,Medium
+C0212,Affluent,East,24,Savings,Medium
+C0213,Mass Market,East,58,Savings,Low
+C0214,Mass Market,North,53,Both,Low
+C0215,Emerging Affluent,West,64,Both,High
+C0216,Affluent,East,44,Both,High
+C0217,Mass Market,South,64,Checking,Low
+C0218,Mass Market,North,23,Checking,High
+C0219,Mass Market,North,57,Both,Low
+C0220,Mass Market,West,48,Both,Low
+C0221,Mass Market,South,51,Both,High
+C0222,Mass Market,East,51,Checking,Low
+C0223,Emerging Affluent,East,37,Savings,Medium
+C0224,Emerging Affluent,North,68,Savings,Low
+C0225,Affluent,South,55,Savings,High
+C0226,Affluent,South,62,Savings,High
+C0227,Emerging Affluent,South,72,Checking,Low
+C0228,Mass Market,East,52,Savings,Low
+C0229,Emerging Affluent,North,44,Savings,Medium
+C0230,Mass Market,West,29,Both,Low
+C0231,Affluent,West,39,Both,Medium
+C0232,Mass Market,South,32,Savings,Medium
+C0233,Mass Market,West,28,Savings,Medium
+C0234,Emerging Affluent,East,66,Savings,Medium
+C0235,Affluent,South,44,Checking,Low
+C0236,Affluent,South,29,Both,Medium
+C0237,Mass Market,South,58,Savings,Medium
+C0238,Mass Market,West,67,Both,Low
+C0239,Emerging Affluent,East,72,Both,Medium
+C0240,Emerging Affluent,South,65,Both,Medium
+C0241,Mass Market,South,34,Checking,High
+C0242,Emerging Affluent,East,60,Savings,Low
+C0243,Mass Market,North,32,Checking,Low
+C0244,Emerging Affluent,East,52,Both,High
+C0245,Affluent,South,38,Both,Low
+C0246,Emerging Affluent,North,47,Savings,High
+C0247,Mass Market,West,25,Checking,Low
+C0248,Affluent,North,56,Checking,Medium
+C0249,Mass Market,East,36,Both,Medium
+C0250,Affluent,South,42,Both,High
+C0251,Mass Market,South,32,Savings,Low
+C0252,Affluent,North,30,Both,Medium
+C0253,Emerging Affluent,West,27,Savings,Low
+C0254,Mass Market,South,49,Checking,High
+C0255,Emerging Affluent,West,58,Savings,Medium
+C0256,Mass Market,East,35,Savings,High
+C0257,Affluent,East,22,Both,Medium
+C0258,Mass Market,North,24,Both,Low
+C0259,Emerging Affluent,East,68,Both,Medium
+C0260,Mass Market,West,25,Checking,Medium
+C0261,Emerging Affluent,South,71,Both,Low
+C0262,Affluent,South,26,Checking,Low
+C0263,Emerging Affluent,West,65,Savings,Low
+C0264,Emerging Affluent,East,49,Savings,High
+C0265,Affluent,West,40,Both,High
+C0266,Mass Market,South,62,Savings,High
+C0267,Emerging Affluent,South,43,Savings,Medium
+C0268,Mass Market,West,29,Both,Medium
+C0269,Mass Market,North,25,Both,Medium
+C0270,Mass Market,South,42,Checking,Low
+C0271,Emerging Affluent,East,58,Both,High
+C0272,Mass Market,North,31,Both,Medium
+C0273,Mass Market,South,65,Both,Medium
+C0274,Emerging Affluent,North,65,Checking,Low
+C0275,Mass Market,East,51,Checking,High
+C0276,Affluent,West,27,Savings,Medium
+C0277,Mass Market,West,43,Checking,Medium
+C0278,Affluent,South,59,Savings,Low
+C0279,Affluent,East,43,Savings,Low
+C0280,Emerging Affluent,North,29,Checking,Low
+C0281,Mass Market,West,60,Savings,High
+C0282,Affluent,West,28,Both,Medium
+C0283,Mass Market,West,56,Both,Medium
+C0284,Mass Market,East,35,Checking,Medium
+C0285,Mass Market,West,28,Savings,High
+C0286,Emerging Affluent,North,56,Both,Medium
+C0287,Affluent,South,33,Both,High
+C0288,Emerging Affluent,South,26,Both,Low
+C0289,Mass Market,West,23,Both,Medium
+C0290,Mass Market,West,22,Both,Medium
+C0291,Mass Market,West,58,Checking,High
+C0292,Emerging Affluent,East,68,Both,High
+C0293,Emerging Affluent,North,57,Checking,Medium
+C0294,Emerging Affluent,North,60,Both,Medium
+C0295,Emerging Affluent,North,42,Savings,High
+C0296,Emerging Affluent,West,61,Checking,Low
+C0297,Mass Market,South,33,Both,Medium
+C0298,Affluent,North,50,Checking,Low
+C0299,Affluent,East,32,Both,High
+C0300,Emerging Affluent,South,73,Checking,Medium
+C0301,Emerging Affluent,North,51,Both,Medium
+C0302,Emerging Affluent,North,36,Both,Medium
+C0303,Mass Market,West,56,Savings,Low
+C0304,Affluent,North,24,Savings,Medium
+C0305,Emerging Affluent,East,53,Checking,Medium
+C0306,Emerging Affluent,South,45,Checking,Medium
+C0307,Affluent,West,35,Savings,Low
+C0308,Mass Market,East,71,Checking,Low
+C0309,Emerging Affluent,South,68,Checking,Medium
+C0310,Mass Market,South,42,Checking,Low
+C0311,Emerging Affluent,North,67,Checking,Low
+C0312,Emerging Affluent,East,32,Checking,High
+C0313,Affluent,West,33,Both,Low
+C0314,Affluent,East,32,Checking,Low
+C0315,Affluent,North,41,Savings,High
+C0316,Mass Market,West,25,Checking,Low
+C0317,Emerging Affluent,West,42,Savings,Medium
+C0318,Affluent,West,58,Checking,High
+C0319,Affluent,West,41,Both,Low
+C0320,Affluent,East,53,Checking,High
+C0321,Mass Market,North,33,Checking,Low
+C0322,Mass Market,West,70,Savings,High
+C0323,Mass Market,North,64,Both,High
+C0324,Emerging Affluent,West,44,Savings,Medium
+C0325,Affluent,East,68,Savings,Low
+C0326,Emerging Affluent,East,69,Savings,Low
+C0327,Emerging Affluent,North,32,Checking,High
+C0328,Emerging Affluent,West,51,Both,Medium
+C0329,Mass Market,South,44,Savings,Low
+C0330,Affluent,South,39,Both,High
+C0331,Mass Market,West,61,Savings,Medium
+C0332,Affluent,East,30,Both,High
+C0333,Affluent,South,26,Both,High
+C0334,Affluent,East,38,Checking,Medium
+C0335,Affluent,South,67,Both,Low
+C0336,Mass Market,South,42,Both,Medium
+C0337,Emerging Affluent,South,21,Both,High
+C0338,Mass Market,North,36,Checking,High
+C0339,Affluent,South,52,Savings,Low
+C0340,Emerging Affluent,South,30,Checking,Low
+C0341,Mass Market,East,47,Savings,Low
+C0342,Emerging Affluent,West,59,Checking,Medium
+C0343,Affluent,West,44,Checking,Medium
+C0344,Affluent,North,57,Both,Medium
+C0345,Mass Market,West,63,Savings,Medium
+C0346,Affluent,North,38,Savings,Low
+C0347,Emerging Affluent,West,66,Both,High
+C0348,Affluent,East,52,Both,Medium
+C0349,Affluent,West,39,Checking,High
+C0350,Emerging Affluent,East,35,Savings,Medium
+C0351,Affluent,South,27,Checking,Medium
+C0352,Emerging Affluent,South,51,Checking,High
+C0353,Affluent,West,48,Both,Medium
+C0354,Mass Market,East,45,Savings,Low
+C0355,Emerging Affluent,South,46,Savings,Medium
+C0356,Affluent,South,25,Checking,Medium
+C0357,Mass Market,East,67,Both,Low
+C0358,Affluent,South,47,Checking,Low
+C0359,Emerging Affluent,West,23,Savings,Medium
+C0360,Affluent,West,30,Both,Medium
+C0361,Emerging Affluent,North,42,Checking,High
+C0362,Emerging Affluent,South,58,Savings,High
+C0363,Emerging Affluent,South,69,Savings,Low
+C0364,Emerging Affluent,West,24,Checking,Medium
+C0365,Mass Market,East,73,Both,Medium
+C0366,Affluent,North,45,Both,Medium
+C0367,Mass Market,East,55,Savings,High
+C0368,Mass Market,West,28,Savings,High
+C0369,Emerging Affluent,East,30,Both,Low
+C0370,Emerging Affluent,West,58,Savings,Medium
+C0371,Emerging Affluent,South,29,Checking,Low
+C0372,Emerging Affluent,South,34,Checking,Low
+C0373,Emerging Affluent,North,63,Both,Low
+C0374,Mass Market,West,68,Checking,High
+C0375,Affluent,East,64,Both,Low
+C0376,Affluent,West,58,Savings,High
+C0377,Mass Market,North,46,Savings,High
+C0378,Affluent,South,39,Both,Low
+C0379,Affluent,East,73,Savings,High
+C0380,Emerging Affluent,North,59,Checking,Medium
+C0381,Emerging Affluent,West,47,Both,Low
+C0382,Mass Market,East,34,Checking,High
+C0383,Affluent,West,60,Both,Medium
+C0384,Affluent,South,21,Both,Medium
+C0385,Affluent,South,30,Checking,High
+C0386,Emerging Affluent,North,48,Checking,Medium
+C0387,Mass Market,West,47,Savings,Low
+C0388,Mass Market,West,61,Savings,Medium
+C0389,Affluent,South,74,Savings,High
+C0390,Mass Market,North,32,Both,Medium
+C0391,Mass Market,South,55,Both,High
+C0392,Emerging Affluent,South,56,Savings,High
+C0393,Emerging Affluent,West,67,Checking,High
+C0394,Affluent,North,73,Savings,High
+C0395,Mass Market,West,72,Both,Low
+C0396,Emerging Affluent,South,24,Savings,Low
+C0397,Emerging Affluent,West,30,Savings,High
+C0398,Affluent,West,33,Checking,Medium
+C0399,Emerging Affluent,South,35,Both,High
+C0400,Affluent,North,38,Savings,Medium
+C0401,Affluent,East,43,Both,Low
+C0402,Affluent,South,74,Both,Medium
+C0403,Affluent,East,21,Checking,High
+C0404,Affluent,South,68,Savings,Low
+C0405,Mass Market,West,41,Savings,Medium
+C0406,Affluent,North,59,Checking,Low
+C0407,Emerging Affluent,West,54,Checking,Low
+C0408,Emerging Affluent,North,60,Both,Low
+C0409,Mass Market,South,69,Both,Low
+C0410,Emerging Affluent,North,66,Savings,Medium
+C0411,Emerging Affluent,West,61,Checking,Medium
+C0412,Mass Market,West,22,Savings,Low
+C0413,Affluent,South,27,Checking,Medium
+C0414,Mass Market,South,31,Both,Medium
+C0415,Affluent,North,31,Both,Low
+C0416,Mass Market,North,28,Savings,Medium
+C0417,Affluent,South,66,Both,Low
+C0418,Emerging Affluent,North,34,Savings,Medium
+C0419,Affluent,South,31,Both,Medium
+C0420,Mass Market,East,37,Checking,Low
+C0421,Mass Market,East,38,Both,Medium
+C0422,Emerging Affluent,West,40,Both,Low
+C0423,Mass Market,North,64,Savings,High
+C0424,Affluent,East,30,Checking,Low
+C0425,Emerging Affluent,North,65,Both,High
+C0426,Affluent,North,48,Savings,High
+C0427,Emerging Affluent,North,37,Savings,Low
+C0428,Mass Market,South,37,Checking,Medium
+C0429,Mass Market,South,39,Checking,Low
+C0430,Mass Market,South,21,Both,Low
+C0431,Emerging Affluent,East,61,Checking,Medium
+C0432,Affluent,West,63,Savings,Low
+C0433,Mass Market,West,45,Checking,Low
+C0434,Emerging Affluent,North,59,Both,Medium
+C0435,Affluent,South,43,Checking,High
+C0436,Emerging Affluent,North,24,Checking,Medium
+C0437,Emerging Affluent,North,40,Savings,Medium
+C0438,Emerging Affluent,South,57,Checking,Medium
+C0439,Affluent,South,70,Checking,Medium
+C0440,Mass Market,South,67,Savings,Medium
+C0441,Affluent,West,58,Both,Low
+C0442,Emerging Affluent,South,41,Checking,Low
+C0443,Emerging Affluent,South,57,Checking,Medium
+C0444,Mass Market,East,40,Checking,Low
+C0445,Mass Market,West,62,Checking,High
+C0446,Mass Market,South,64,Checking,Low
+C0447,Emerging Affluent,South,55,Checking,High
+C0448,Mass Market,West,36,Savings,Medium
+C0449,Mass Market,North,54,Savings,Low
+C0450,Emerging Affluent,South,56,Both,High
+C0451,Emerging Affluent,North,31,Savings,Medium
+C0452,Mass Market,North,49,Both,Low
+C0453,Emerging Affluent,East,73,Savings,Low
+C0454,Mass Market,South,36,Savings,Low
+C0455,Affluent,West,30,Savings,Medium
+C0456,Mass Market,South,29,Savings,Low
+C0457,Emerging Affluent,East,38,Checking,Medium
+C0458,Emerging Affluent,East,38,Checking,Low
+C0459,Emerging Affluent,East,71,Checking,High
+C0460,Affluent,South,73,Checking,High
+C0461,Mass Market,East,28,Savings,Low
+C0462,Mass Market,East,32,Checking,Medium
+C0463,Affluent,West,25,Both,Low
+C0464,Affluent,East,30,Both,Low
+C0465,Emerging Affluent,West,67,Checking,Medium
+C0466,Emerging Affluent,North,66,Both,Low
+C0467,Emerging Affluent,East,39,Savings,Low
+C0468,Emerging Affluent,West,69,Checking,Medium
+C0469,Mass Market,South,28,Checking,Medium
+C0470,Mass Market,South,68,Checking,Medium
+C0471,Emerging Affluent,West,34,Both,Medium
+C0472,Affluent,South,38,Both,Medium
+C0473,Emerging Affluent,South,42,Checking,High
+C0474,Emerging Affluent,North,36,Checking,High
+C0475,Affluent,North,45,Both,Medium
+C0476,Emerging Affluent,West,32,Savings,Medium
+C0477,Mass Market,East,35,Checking,Low
+C0478,Mass Market,North,26,Savings,Medium
+C0479,Affluent,West,25,Savings,High
+C0480,Emerging Affluent,East,73,Both,High
+C0481,Affluent,South,22,Savings,High
+C0482,Affluent,North,39,Both,High
+C0483,Affluent,North,65,Checking,High
+C0484,Emerging Affluent,West,57,Savings,High
+C0485,Affluent,South,65,Checking,Medium
+C0486,Emerging Affluent,South,62,Both,High
+C0487,Affluent,South,56,Savings,Low
+C0488,Affluent,North,31,Savings,Low
+C0489,Emerging Affluent,East,51,Checking,Low
+C0490,Emerging Affluent,East,21,Checking,Low
+C0491,Emerging Affluent,South,43,Checking,Low
+C0492,Mass Market,East,60,Checking,Low
+C0493,Emerging Affluent,East,74,Both,Low
+C0494,Emerging Affluent,East,51,Savings,High
+C0495,Emerging Affluent,South,49,Both,High
+C0496,Mass Market,East,68,Checking,High
+C0497,Mass Market,North,27,Checking,Medium
+C0498,Affluent,South,36,Both,Low
+C0499,Affluent,West,52,Savings,Medium
+C0500,Mass Market,North,31,Savings,High
